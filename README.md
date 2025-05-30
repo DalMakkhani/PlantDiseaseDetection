@@ -18,8 +18,12 @@ The CNN model comprises the following layers:
 
 ## 📊 Training Metrics
 
-- **Accuracy**: ![Accuracy Graph](acc.jpg)
-- **Loss**: ![Loss Graph](loss.jpg)
+- **Accuracy**:
+
+  ![Accuracy Graph](acc.jpg)
+- **Loss**:
+
+  ![Loss Graph](loss.jpg)
 
 These graphs illustrate the model's performance over training epochs.
 
