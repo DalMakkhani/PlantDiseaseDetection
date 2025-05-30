@@ -14,7 +14,7 @@ The CNN model comprises the following layers:
 
 *Model Architecture Visualization:*
 
-![Model Architecture](model.jpg)
+![Model Architecture](models.jpg)
 
 ## 📊 Training Metrics
 
