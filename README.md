@@ -74,29 +74,29 @@ The model is trained on the [PlantVillage Dataset](https://www.kaggle.com/datase
     ```
 
 ## 🔍 Usage
-** Training the Model: **
+**Training the Model:**
 
 Execute the notebook cells to train the CNN model on the PlantVillage dataset.
 
-** Evaluating Performance: **
+**Evaluating Performance:**
 
 Review the accuracy and loss graphs to assess model performance.
 
-** Making Predictions: **
+**Making Predictions:**
 
 Use the trained model to predict diseases from new leaf images.
 
 ## 🛠️ Future Enhancements
-** Model Optimization: **
+**Model Optimization:**
 
 Implement data augmentation techniques to improve model generalization.
 
 Experiment with deeper architectures or transfer learning for enhanced accuracy.
 
-** Web Application: **
+**Web Application:**
 
 Develop a user-friendly web interface for real-time disease prediction.
 
-** Mobile Deployment: **
+**Mobile Deployment:**
 
 Optimize the model for deployment on mobile devices for field usage.
